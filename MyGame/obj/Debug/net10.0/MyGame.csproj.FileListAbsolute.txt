@@ -1,0 +1,14 @@
+C:\CSharpStudy\MyGame\bin\Debug\net10.0\MyGame.exe
+C:\CSharpStudy\MyGame\bin\Debug\net10.0\MyGame.deps.json
+C:\CSharpStudy\MyGame\bin\Debug\net10.0\MyGame.runtimeconfig.json
+C:\CSharpStudy\MyGame\bin\Debug\net10.0\MyGame.dll
+C:\CSharpStudy\MyGame\bin\Debug\net10.0\MyGame.pdb
+C:\CSharpStudy\MyGame\obj\Debug\net10.0\MyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpStudy\MyGame\obj\Debug\net10.0\MyGame.AssemblyInfoInputs.cache
+C:\CSharpStudy\MyGame\obj\Debug\net10.0\MyGame.AssemblyInfo.cs
+C:\CSharpStudy\MyGame\obj\Debug\net10.0\MyGame.csproj.CoreCompileInputs.cache
+C:\CSharpStudy\MyGame\obj\Debug\net10.0\MyGame.dll
+C:\CSharpStudy\MyGame\obj\Debug\net10.0\refint\MyGame.dll
+C:\CSharpStudy\MyGame\obj\Debug\net10.0\MyGame.pdb
+C:\CSharpStudy\MyGame\obj\Debug\net10.0\MyGame.genruntimeconfig.cache
+C:\CSharpStudy\MyGame\obj\Debug\net10.0\ref\MyGame.dll
